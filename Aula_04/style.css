@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(233, 160, 24);
+    color:rgba(0, 0, 0, 0);
+    }
+
+p{
+    
+    font-size: 500%;
+    color:rgb(12, 26, 51); 
+    text-align: center; 
+ }
+
+ol{
+    
+    font-size:300% ;
+    color:rgb(52, 95, 173);  
+  }
+
+ul{
+    color:rgb(37, 42, 48);
+  }
