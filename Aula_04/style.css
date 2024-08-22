@@ -5,11 +5,9 @@ body{
     background-size:50%;
     background-repeat: no-repeat;
     background-position: center;
-    backface-visibility: hidden;
   }
 
 p, ul{
-  
     font-size: 20px; 
     color:rgb(12, 26, 51); 
     text-align: center; 
@@ -23,7 +21,6 @@ p, ul{
 
 }
 ol{
-    
     font-size:300% ;
     color:rgb(52, 95, 173);  
   }
