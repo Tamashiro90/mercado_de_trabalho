@@ -1,15 +1,27 @@
 body{
-    background-color:rgb(233, 160, 24);
+    /*background-image: linear-gradient(blue, yellow);*/
     color:rgba(0, 0, 0, 0);
-    }
+    background-image: url("https://image.winudf.com/v2/image1/Y29tLnRob3JhcHBzYW5kcm9pZC5sYW5kc2NhcGVzX3NjcmVlbl8zXzE1NjI4NjA3MjdfMDM3/screen-3.jpg?fakeurl=1&type=.jpg");
+    background-size:50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    backface-visibility: hidden;
+  }
 
-p{
-    
-    font-size: 500%;
+p, ul{
+  
+    font-size: 20px; 
     color:rgb(12, 26, 51); 
     text-align: center; 
  }
 
+.Título{ /*class*/
+    
+}
+
+#seletor { /*id*/
+
+}
 ol{
     
     font-size:300% ;
